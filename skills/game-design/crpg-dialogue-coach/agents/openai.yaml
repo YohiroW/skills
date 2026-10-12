@@ -1,0 +1,4 @@
+interface:
+  display_name: "CRPG 对白引导"
+  short_description: "每轮一个关键问题，逐步梳理 CRPG 人物、冲突、选择和后果"
+  default_prompt: "用 $crpg-dialogue-coach 每轮问我一个关键问题，帮助我把想法整理成可写的 CRPG 场景。"

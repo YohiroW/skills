@@ -1,0 +1,4 @@
+interface:
+  display_name: "CRPG 对白写作"
+  short_description: "根据需求直接创作 CRPG 对白，包含人物声音、玩家选择和后果"
+  default_prompt: "用 $crpg-dialogue-writer 根据以下设定，直接写一段可玩的 CRPG 对话，并给出简洁的分支备注。"
