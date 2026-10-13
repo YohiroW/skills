@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Slides"
+  short_description: "Create animated HTML decks and convert PPTX slides"
+  default_prompt: "Use $frontend-slides to turn my content into an animated HTML presentation with a clear visual style."

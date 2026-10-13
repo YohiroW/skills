@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Practice Research"
+  short_description: "研究游戏开发技术实践，交叉核验大会与工作室资料，产出可追溯的中文研究文章"
+  default_prompt: "使用 $game-practice-research 调研我指定的游戏技术主题，从 GDC Vault、CEDEC 和相关一手资料中分析实现、项目实践与取舍，保存为带引用的 Markdown 研究文章。"
